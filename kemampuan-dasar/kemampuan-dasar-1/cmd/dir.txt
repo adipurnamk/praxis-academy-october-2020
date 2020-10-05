@@ -1,0 +1,56 @@
+ Volume in drive C is 19H1
+ Volume Serial Number is 50C1-D929
+
+ Directory of C:\Users\Una
+
+03-Oct-20  11:14    <DIR>          .
+03-Oct-20  11:14    <DIR>          ..
+08-Sep-20  11:41    <DIR>          .android
+01-Oct-20  19:23             1,652 .bash_history
+08-Jan-20  12:14    <DIR>          .BigNox
+28-Sep-20  13:45    <DIR>          .config
+27-Sep-20  22:44                53 .git-for-windows-updater
+25-Sep-20  06:08               191 .gitconfig
+01-Oct-20  12:22    <DIR>          .idlerc
+01-Oct-20  08:54                33 .minttyrc
+12-Aug-20  11:57                 0 .node_repl_history
+03-Oct-20  17:12               172 .packettracer
+02-Oct-20  17:07    <DIR>          .pylint.d
+26-May-20  19:46    <DIR>          .smplayer
+27-Jun-20  19:10    <DIR>          .VirtualBox
+28-Sep-20  14:42    <DIR>          .vscode
+20-Jan-20  21:52    <DIR>          .zenmap
+19-Sep-20  04:12    <DIR>          3D Objects
+08-Dec-19  15:11    <DIR>          ansel
+02-Oct-20  09:06    <DIR>          Cisco Packet Tracer 7.3.1
+19-Sep-20  04:12    <DIR>          Contacts
+08-Jan-20  13:24               295 d4ac4633ebd6440fa397b84f1bc94a3c.7z
+01-Oct-20  20:52    <DIR>          Desktop
+02-Oct-20  17:05    <DIR>          Dev
+29-Sep-20  16:33    <DIR>          Documents
+19-Sep-20  04:12    <DIR>          Favorites
+05-Jan-20  16:31                66 inittk.ini
+05-Sep-20  08:23    <DIR>          INMOSTs
+05-Jan-20  16:31                41 inst.ini
+19-Sep-20  04:12    <DIR>          Links
+22-Aug-20  10:01    <DIR>          LocalLow
+04-Sep-20  20:00    <DIR>          Mortal Shells
+19-Sep-20  04:12    <DIR>          Music
+12-Sep-20  10:49    <DIR>          Need for Speed - Paybacks
+05-Jan-20  16:31    <DIR>          Nox_share
+05-Jan-20  16:31                45 nuuid.ini
+05-Sep-20  21:03    <DIR>          Octopath Travelers
+05-Nov-19  10:50    <DIR>          OneDrive
+22-Jan-20  21:37               600 PUTTY.RND
+05-Sep-20  05:48    <DIR>          save
+19-Sep-20  04:12    <DIR>          Saved Games
+28-Sep-20  13:45    <DIR>          scoop
+19-Sep-20  04:12    <DIR>          Searches
+12-Sep-20  11:03    <DIR>          Trials of Manas
+05-Jan-20  16:31                53 useruid.ini
+08-Jan-20  12:14    <DIR>          vmlogs
+27-Jun-20  08:05    <DIR>          VM_share
+              12 File(s)          3,201 bytes
+              35 Dir(s)   6,894,280,704 bytes free
+
+Fungsi adalah untuk menampikan fodler dan subfolder
